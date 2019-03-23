@@ -1,6 +1,6 @@
 # Deep learning images classification project
-## using Convolutional Neural Networks (CNN):
-### cifar_10-dataset-image-classification
+## Cifar_10_dataset-Image-Classification-Project
+### Using Convolutional Neural Networks (CNN):
 In this notebook, we train a CNN on augmented images from the CIFAR-10 database and get accuracy 88.3%
 45000 train samples
 10000 test samples
